@@ -1,0 +1,10 @@
+---
+title: "cross_validation"
+author: "Martha Mulugeta"
+date: "11/12/2019"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```

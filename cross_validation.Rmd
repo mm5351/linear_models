@@ -150,4 +150,5 @@ cv_df %>%
   geom_violin()
 ##Pick smooth model based on this 
 
+most of the time, choose the piece-wise linear model over the smooth because it is easier to interpret; although, both can be fairly similar. 
 
